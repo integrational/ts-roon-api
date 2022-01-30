@@ -1,0 +1,13 @@
+= ts-roon-api: Roon API for TypeScript as a thin wrapper around the Roon API for JavaScript
+
+== Log
+
+. `node -v` -> `v17.4.0`
+. Create `package.json`
+. `npm install`
+. `npm install typescript --save-dev`
+. Create `lib.ts`
+. `npx tsc --init`
+. Add `*.js` to .gitignore
+. Create `run.sh`
+. `./run.sh`
