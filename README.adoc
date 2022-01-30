@@ -7,7 +7,7 @@
 . `npm install`
 . `npm install typescript --save-dev`
 . Create `lib.ts`
-. `npx tsc --init`
+. `npx tsc --init` and fine-tune `tsconfig.json`
 . Add `*.js` to .gitignore
 . Create `run.sh`
 . `./run.sh`

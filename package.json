@@ -1,7 +1,7 @@
 {
     "name": "ts-roon-api",
     "version": "0.0.1",
-    "description": "Roon API for TypeScript, a thin wrapper around the Roon API for JavaScript",
+    "description": "Roon API for TypeScript as a thin wrapper around the Roon API for JavaScript",
     "main": "lib.js",
     "license": "Apache-2.0",
     "repository": "github:integrational/ts-roon-api",
